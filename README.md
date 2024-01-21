@@ -9,9 +9,10 @@ GoMicro was created to test the interaction of different microservices.
 - Logger
 - Front-end
 - Mail
-
-## Services in development
 - Listener
+
+## In development
+- Communication via RPC
 
 ## Techs
 
@@ -19,5 +20,6 @@ GoMicro was created to test the interaction of different microservices.
 - Postgres: https://www.postgresql.org/
 - MongoDB: https://www.mongodb.com/
 - Mailhog: https://github.com/mailhog/MailHog
+- RabbitMQ https://rabbitmq.com/
 
 ### Makefile available in the 'project' folder.
