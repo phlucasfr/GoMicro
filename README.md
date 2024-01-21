@@ -8,10 +8,10 @@ GoMicro was created to test the interaction of different microservices.
 - Authentication
 - Logger
 - Front-end
+- Mail
 
 ## Services in development
-
-- Mail
+- Listener
 
 ## Techs
 
